@@ -1,1 +1,7 @@
-巴拉巴拉小魔仙
+锘垮反鎷夊反鎷夊皬榄斾粰
+2銆乪cho "# mywork" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jinguobense/mywork.git
+git push -u origin master
